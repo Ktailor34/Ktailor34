@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Kishan, a Senior at the University of Tennessee : Knoxville studying Computer Science with a minor in Mathematics and Cyber Security.
 
 <img align="left" alt="Kishan Tailor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ktailor34&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" />
 
