@@ -2,6 +2,8 @@
 I'm **Kishan Tailor**, a Senior at the University of Tennessee : Knoxville studying Computer Science with a minor in Mathematics and Cyber Security.
 Reach out to me via [Linkedin!](http://www.linkedin.com/in/kishanktailor)
 
+I am currently building [Cogni](http://www.learnwithcogni.com)! Cogni is a new learning platform focused on personalizing education. Please reach out if you are interested!
+
 <img align="left" alt="Kishan Tailor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ktailor34&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" />
 
 <!--
