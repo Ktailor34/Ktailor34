@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm **Kishan Tailor**, a Masters student at Cornell Tech University studying Computer Science. I previously graduated from the University of Tennessee in Knoxville with a bachelors of Computer Science with a double minor in Mathematics and Cyber Security.
+I'm **Kishan Tailor**, a Masters student at Cornell Tech University in New York City studying Computer Science. I previously graduated from the University of Tennessee in Knoxville with a bachelors of Computer Science with a double minor in Mathematics and Cyber Security.
 
 I am currently building [Cogni!](http://www.learnwithcogni.com) Cogni is a new learning platform focused on personalizing education. Please reach out if you are interested!
 
