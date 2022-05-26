@@ -1,9 +1,9 @@
 ### Hi there 👋 
 I'm **Kishan Tailor**, a Masters student at Cornell Tech University studying Computer Science. I previously graduated from the University of Tennessee in Knoxville with a bachelors of Computer Science with a double minor in Mathematics and Cyber Security.
 
-I am currently building [spaced!](www.usespaced.com) Spaced is a new learning platform focused on personalizing education. Please reach out if you are interested!
+I am currently building [spaced!](http://www.usespaced.com) Spaced is a new learning platform focused on personalizing education. Please reach out if you are interested!
 
-Reach out to me via [Linkedin!](http://www.linkedin.com/in/kishanktailor)
+Reach out to me via [Linkedin!](http://www.linkedin.com/in/kishantailor)
 
 <img align="left" alt="Kishan Tailor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ktailor34&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" />
 
