@@ -4,9 +4,9 @@ I'm **Kishan Tailor**, a Masters student at Cornell Tech University studying Com
 I am currently building [spaced!](http://www.usespaced.com) Spaced is a new learning platform focused on personalizing education. Please reach out if you are interested!
 
 Reach out to me via [Linkedin!](http://www.linkedin.com/in/kishantailor)
-
+<!--
 <img align="left" alt="Kishan Tailor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ktailor34&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" />
-
+-->
 <!--
 **Ktailor34/Ktailor34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
